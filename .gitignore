@@ -1,0 +1,7 @@
+# Root gitignore
+node_modules/
+.env
+backend/uploads/
+backend/test_signup.js
+frontend/dist/
+.DS_Store
