@@ -108,7 +108,7 @@ npm run dev # In both frontend & backend folders
 
 **Raghvendra**
 *   🚀 **GitHub:** [@Raghu9996](https://github.com/Raghu9996)
-*   💼 **LinkedIn:** [Connect with me](https://linkedin.com/in/yourprofile)
+*   💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/raghvendra-yadav-a0a5b92b5)
 *   🌐 **Portfolio:** [Coming Soon]
 
 ---
