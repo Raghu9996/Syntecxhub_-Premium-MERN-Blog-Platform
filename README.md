@@ -6,7 +6,7 @@ BlogSpace is a modern, production-ready blogging platform built using the MERN s
 
 ## 🚀 Live Demo
 
-🔗 [Add your deployed link here (e.g., Render/Vercel)]
+🔗 [https://syntecxhub-premium-mern-blog-platfo.vercel.app/](https://syntecxhub-premium-mern-blog-platfo.vercel.app/)
 
 ---
 
