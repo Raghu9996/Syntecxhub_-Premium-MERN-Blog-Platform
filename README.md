@@ -12,6 +12,18 @@
 
 🔗 **Explore the App:** [https://syntecxhub-premium-mern-blog-platfo.vercel.app/](https://syntecxhub-premium-mern-blog-platfo.vercel.app/)
 
+> [!IMPORTANT]
+> **Performance Note:** The backend is hosted on Render's free tier. The initial request may take **30-50 seconds** to wake up the server (Cold Start). Once awake, the experience is blazing fast!
+
+---
+
+## 📌 Use Cases
+This architecture is highly versatile and can be adapted for:
+*   **Blogging Platforms:** High-traffic content sites.
+*   **SaaS Content Systems:** Multi-user article management.
+*   **Personal Portfolios:** Showcasing professional work with style.
+*   **Admin Dashboards:** Managing complex data with a clean UI.
+
 ---
 
 ## ⚙️ Backend API Details
@@ -86,7 +98,6 @@ Skip the signup process and explore the professional dashboard instantly:
 The application is deployed using modern cloud infrastructure to ensure stability:
 *   **Frontend:** Hosted on **Vercel** (Global CDN for fast loading).
 *   **Backend:** Hosted on **Render** (Node.js Environment).
-    *   *Note: Due to Render's free tier, the first request may have a 30-50s "cold start" delay.*
 *   **Database:** **MongoDB Atlas** (Cloud-managed cluster).
 
 ---
@@ -101,8 +112,10 @@ Are you looking for a dedicated developer to build your next SaaS, Dashboard, or
 *   ✅ **UI/UX Modernization** (Updating old sites to modern designs)
 
 🚀 **Let's turn your idea into reality!**
-📩 **Direct Email:** [raghvendra.dev@email.com] (Replace with yours)
+📩 **Email:** [raghu2184885@gmail.com](mailto:raghu2184885@gmail.com)
 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/raghvendra-yadav-a0a5b92b5)
+
+⭐ **Available for freelance & internship opportunities**
 
 ---
 
