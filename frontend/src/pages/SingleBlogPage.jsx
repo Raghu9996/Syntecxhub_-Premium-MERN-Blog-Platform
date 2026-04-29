@@ -45,7 +45,7 @@ const SingleBlogPage = () => {
         <div className="author-info">
           {blog.author?.profilePicture && (
             <img
-              src={`http://localhost:5009${blog.author.profilePicture}`}
+              src={`https://syntecxhub-premium-mern-blog-platform.onrender.com${blog.author.profilePicture}`}
               alt="author"
               className="avatar-sm"
             />

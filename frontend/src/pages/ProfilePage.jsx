@@ -6,7 +6,7 @@ const ProfilePage = () => {
   const { user, updateUserContext } = useAuth();
   const [form, setForm] = useState({ name: user?.name || '', bio: user?.bio || '' });
   const [preview, setPreview] = useState(
-    user?.profilePicture ? `http://localhost:5009${user.profilePicture}` : null
+    user?.profilePicture ? `https://syntecxhub-premium-mern-blog-platform.onrender.com${user.profilePicture}` : null
   );
   const [selectedFile, setSelectedFile] = useState(null);
   const [msg, setMsg] = useState('');

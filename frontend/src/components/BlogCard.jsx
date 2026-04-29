@@ -34,7 +34,7 @@ const BlogCard = ({ blog, onDelete }) => {
         <div className="author-info">
           {blog.author?.profilePicture && (
             <img 
-              src={`http://localhost:5009${blog.author.profilePicture}`} 
+              src={`https://syntecxhub-premium-mern-blog-platform.onrender.com${blog.author.profilePicture}`} 
               className="avatar-sm" 
               alt=""
               style={{ width: '24px', height: '24px', borderRadius: '50%', marginRight: '8px' }}
