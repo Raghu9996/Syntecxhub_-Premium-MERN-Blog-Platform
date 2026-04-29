@@ -29,13 +29,13 @@ Want to skip signup? Use these demo details to explore the dashboard instantly:
 
 | 🏠 Home Dashboard (Glassmorphism) | 👤 Professional User Profile |
 | :---: | :---: |
-| ![Home Page](https://via.placeholder.com/600x400?text=Premium+Home+Dashboard+UI) | ![Profile Page](https://via.placeholder.com/600x400?text=Professional+Profile+Settings) |
+| ![Home Page](./assets/screenshots/home.png) | ![Profile Page](./assets/screenshots/profile.png) |
 | *Sleek dark mode with dynamic cards* | *Real-time avatar & bio updates* |
 
-| ✍️ Content Creation Suite | 🔍 Advanced Search & Filters |
+| ✍️ Content Creation Suite | 📊 User Dashboard |
 | :---: | :---: |
-| ![Create Blog](https://via.placeholder.com/600x400?text=Interactive+Editor+UI) | ![Search UI](https://via.placeholder.com/600x400?text=Smart+Tag+Search+Filtering) |
-| *Clean, distraction-free writing* | *Instant tag-based content discovery* |
+| ![Create Blog](./assets/screenshots/create_blog.png) | ![Dashboard](./assets/screenshots/dashboard.png) |
+| *Clean, distraction-free writing* | *Manage your posts effortlessly* |
 
 ---
 
