@@ -3,9 +3,8 @@
 [![Vercel](https://img.shields.io/badge/Frontend-Vercel-black?style=for-the-badge&logo=vercel)](https://syntecxhub-premium-mern-blog-platfo.vercel.app/)
 [![Render](https://img.shields.io/badge/Backend-Render-EFEFEF?style=for-the-badge&logo=render)](https://syntecxhub-premium-mern-blog-platform.onrender.com)
 [![MongoDB](https://img.shields.io/badge/Database-MongoDB-47A248?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
-**BlogSpace** is a high-performance, full-stack blogging solution built for creators who demand a premium user experience. Featuring a sleek **Glassmorphism UI**, secure **JWT authentication**, and a scalable **Node/Express architecture**, it's more than just a blog—it's a complete content ecosystem.
+**BlogSpace** is a high-performance, full-stack blogging solution built for creators who demand a premium user experience. Featuring a sleek **Glassmorphism UI**, secure **JWT authentication**, and a scalable **Node/Express architecture**, it's a complete production-ready ecosystem.
 
 ---
 
@@ -13,13 +12,24 @@
 
 🔗 **Explore the App:** [https://syntecxhub-premium-mern-blog-platfo.vercel.app/](https://syntecxhub-premium-mern-blog-platfo.vercel.app/)
 
-> [!NOTE]
-> **Cold Start Alert:** Since the backend is hosted on Render's free tier, the initial request might take **30-50 seconds** to wake up the server. Please stay on the page—it's worth the wait!
+---
+
+## ⚙️ Backend API Details
+This project uses a decoupled architecture. The backend is a standalone RESTful API serving the frontend.
+*   **API Base URL:** `https://syntecxhub-premium-mern-blog-platform.onrender.com/api`
+*   **Status:** Operational 🟢
+
+---
+
+## 🎥 Project Walkthrough (Video)
+Watch the full live demo of the application, showcasing the smooth Glassmorphism UI, real-time content creation, and secure profile management.
+
+🔗 **Watch on LinkedIn:** [Click here to view the project walkthrough](https://www.linkedin.com/posts/raghvendra-yadav-a0a5b92b5_syntecxhub-mernstack-fullstackdeveloper-activity-7455324073196261377-hS1s)
 
 ---
 
 ## 🔐 Test Credentials
-Want to skip signup? Use these demo details to explore the dashboard instantly:
+Skip the signup process and explore the professional dashboard instantly:
 *   **Email:** `demo@example.com`
 *   **Password:** `demo1234`
 
@@ -39,21 +49,17 @@ Want to skip signup? Use these demo details to explore the dashboard instantly:
 
 ---
 
-🔗 **Watch the Demo on LinkedIn:** [Click here to view the project walkthrough](https://www.linkedin.com/posts/raghvendra-yadav-a0a5b92b5_syntecxhub-mernstack-fullstackdeveloper-activity-7455324073196261377-hS1s)
-
----
-
 ## ✨ Premium Features
 
 ### 🛡️ Enterprise-Grade Security
 *   **JWT-Based Auth:** Secure session management with encrypted tokens.
 *   **BCrypt Hashing:** Industry-standard password protection.
-*   **Role-Based Access:** Authors have full control over their own content only.
+*   **Protected Routes:** Unauthorized users cannot access private dashboards.
 
 ### 🎨 Stunning Modern UI
 *   **Glassmorphism Design:** Beautiful translucent panels and blur effects.
 *   **Framer Motion:** Fluid transitions and micro-animations for a "luxury" feel.
-*   **Mobile First:** 100% responsive design across all devices.
+*   **Responsive:** Fully optimized for Mobile, Tablet, and Desktop screens.
 
 ### ⚙️ Robust Content Engine
 *   **Full CRUD:** Create, edit, and manage articles with ease.
@@ -76,40 +82,53 @@ Want to skip signup? Use these demo details to explore the dashboard instantly:
 
 ---
 
-## 💼 Hire Me for Your Next Project!
-Are you looking for a dedicated developer to build your next SaaS, Dashboard, or Business Website? I specialize in:
-
-*   ✅ **Full-Stack MERN Apps** (React, Node, MongoDB)
-*   ✅ **Custom Dashboard Design** (Admin Panels & Analytics)
-*   ✅ **API Development & Integration**
-*   ✅ **Premium UI/UX Overhauls**
-
-📩 **Contact me today:** [Your Email or LinkedIn]
+## ⚡ Performance & Deployment
+The application is deployed using modern cloud infrastructure to ensure stability:
+*   **Frontend:** Hosted on **Vercel** (Global CDN for fast loading).
+*   **Backend:** Hosted on **Render** (Node.js Environment).
+    *   *Note: Due to Render's free tier, the first request may have a 30-50s "cold start" delay.*
+*   **Database:** **MongoDB Atlas** (Cloud-managed cluster).
 
 ---
 
-## ⚙️ Installation (For Developers)
+## 💼 Hire Me for Your Next Project!
+Are you looking for a dedicated developer to build your next SaaS, Dashboard, or Business Website? I specialize in building high-performance, visually stunning web applications that convert users.
 
+### My Services:
+*   ✅ **Full-Stack MERN Development** (Custom SaaS & Platforms)
+*   ✅ **Interactive Admin Dashboards** (Analytics & Data Management)
+*   ✅ **RESTful API Development** (Scalable & Secure)
+*   ✅ **UI/UX Modernization** (Updating old sites to modern designs)
+
+🚀 **Let's turn your idea into reality!**
+📩 **Direct Email:** [raghvendra.dev@email.com] (Replace with yours)
+💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/raghvendra-yadav-a0a5b92b5)
+
+---
+
+## ⚙️ Installation & Setup (Local)
+
+### 1. Clone & Backend Setup
 ```bash
-# 1. Clone & Install Backend
+git clone https://github.com/Raghu9996/Syntecxhub_-Premium-MERN-Blog-Platform
 cd backend && npm install
+# Create .env with MONGO_URI, JWT_SECRET, PORT=5009
+npm run dev
+```
 
-# 2. Configure Environment
-# Create .env in /backend:
-# MONGO_URI, JWT_SECRET, PORT=5009
-
-# 3. Start Development Servers
-npm run dev # In both frontend & backend folders
+### 2. Frontend Setup
+```bash
+cd ../frontend && npm install
+npm run dev
 ```
 
 ---
 
 ## 👨‍💻 Author
 
-**Raghvendra**
+**Raghvendra Yadav**
 *   🚀 **GitHub:** [@Raghu9996](https://github.com/Raghu9996)
-*   💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/raghvendra-yadav-a0a5b92b5)
-*   🌐 **Portfolio:** [Coming Soon]
+*   💼 **LinkedIn:** [Raghvendra Yadav](https://www.linkedin.com/in/raghvendra-yadav-a0a5b92b5)
 
 ---
 
