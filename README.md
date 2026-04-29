@@ -39,10 +39,7 @@ Want to skip signup? Use these demo details to explore the dashboard instantly:
 
 ---
 
-## 🎥 Video Walkthrough
-*(Optional: Replace the placeholder below with a loom or YouTube link to show the app in action)*
-
-[![Watch the Demo](https://via.placeholder.com/800x450?text=Click+to+Watch+Project+Demo+Video)](https://www.youtube.com/)
+🔗 **Watch the Demo on LinkedIn:** [Click here to view the project walkthrough](https://www.linkedin.com/posts/raghvendra-yadav-a0a5b92b5_syntecxhub-mernstack-fullstackdeveloper-activity-7455324073196261377-hS1s)
 
 ---
 
