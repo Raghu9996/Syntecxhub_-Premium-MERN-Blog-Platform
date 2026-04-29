@@ -17,6 +17,14 @@
 
 ---
 
+## 🚀 Key Highlights
+*   ✅ **Production-Ready:** Built using the industry-standard MERN stack.
+*   ✅ **Scalable Architecture:** Clean code structure for easy feature expansion.
+*   ✅ **Premium UI/UX:** Freelancing-ready design with modern aesthetics.
+*   ✅ **Real-World SaaS Structure:** Complete with authentication, profiles, and CRUD.
+
+---
+
 ## 📌 Use Cases
 This architecture is highly versatile and can be adapted for:
 *   **Blogging Platforms:** High-traffic content sites.
@@ -34,9 +42,9 @@ This project uses a decoupled architecture. The backend is a standalone RESTful 
 ---
 
 ## 🎥 Project Walkthrough (Video)
-Watch the full live demo of the application, showcasing the smooth Glassmorphism UI, real-time content creation, and secure profile management.
+See the application in action — including secure authentication, real-time blog creation, and the premium UI experience.
 
-🔗 **Watch on LinkedIn:** [Click here to view the project walkthrough](https://www.linkedin.com/posts/raghvendra-yadav-a0a5b92b5_syntecxhub-mernstack-fullstackdeveloper-activity-7455324073196261377-hS1s)
+🔗 **Watch Demo:** [https://www.linkedin.com/posts/raghvendra-yadav-a0a5b92b5_syntecxhub-mernstack-fullstackdeveloper-activity-7455324073196261377-hS1s](https://www.linkedin.com/posts/raghvendra-yadav-a0a5b92b5_syntecxhub-mernstack-fullstackdeveloper-activity-7455324073196261377-hS1s)
 
 ---
 
@@ -112,7 +120,7 @@ Are you looking for a dedicated developer to build your next SaaS, Dashboard, or
 *   ✅ **UI/UX Modernization** (Updating old sites to modern designs)
 
 🚀 **Let's turn your idea into reality!**
-📩 **Email:** [raghu2184885@gmail.com](mailto:raghu2184885@gmail.com)
+📩 **Email:** raghu2184885@gmail.com
 💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/in/raghvendra-yadav-a0a5b92b5)
 
 ⭐ **Available for freelance & internship opportunities**
