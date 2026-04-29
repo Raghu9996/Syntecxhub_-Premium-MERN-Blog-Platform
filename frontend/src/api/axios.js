@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const API = axios.create({
-  baseURL: 'http://localhost:5009/api',
+  baseURL: 'https://syntecxhub-premium-mern-blog-platform.onrender.com/api',
 });
 
 // Attach JWT token to every request automatically
